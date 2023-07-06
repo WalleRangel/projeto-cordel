@@ -69,7 +69,7 @@ p {
 }
 
 section {
-    adding-top: 10vh;
+    padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
